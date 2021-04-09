@@ -14,7 +14,7 @@
 So intially I was trying to work out these queries in the provided doc.  
 But me trying to do SQL queries in my head looks something like this:  
 ![SQL](https://media3.giphy.com/media/DHqth0hVQoIzS/giphy.gif)  
-Therefore I decided the best way to ensure accuracy was to spin up a blank rails app, seed the DB and work them out in real time. 
+Therefore I decided the best way to ensure accuracy was to spin up a blank rails app, seed the DB and work them out in real time.  
 **Side note**  
 I wasn't originally planning on uploading this, it was just for me to use for testing and playing around.  
 That being said there is *Zero* Git workflow to be seen and for that, I apologize.  
