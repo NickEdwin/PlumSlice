@@ -21,7 +21,7 @@ That being said there is *Zero* Git workflow to be seen and for that, I apologiz
 
 ## Background Information  
 This is application is built with Ruby 2.5.3 and Rails 6.0.3.4.  
-PostgreSQL 12.3 used for database.
+PostgreSQL 12.3 used for database.  
 RSpec was used for testing. [Testing File Here](https://github.com/NickEdwin/PlumSlice/blob/main/spec/models/item_spec.rb)  
 Postico used for DB visualization as well as writing SQL queries.   
 
